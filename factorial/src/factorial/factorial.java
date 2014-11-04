@@ -11,7 +11,7 @@ public class factorial {
 			return resultat;
 		}
 	}
-	//-commit no va
+	//-commit no vaa
 	public static void main(String[] args) {
 		System.out.println(factorial(0));
 	}
